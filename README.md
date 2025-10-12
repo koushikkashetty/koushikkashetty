@@ -11,21 +11,21 @@ Full-stack applications with modern, responsive UIs
 
 🌱 Skills & Expertise
 
-Frontend: React, HTML, CSS, JavaScript, TypeScript
+**Frontend**: React, HTML, CSS, JavaScript, TypeScript
 
-Backend: Node.js, Python, Django, Flask, Express, Java, Spring Boot, TypeScript
+**Backend**: Node.js, Python, Django, Flask, Express, Java, Spring Boot, TypeScript
 
-Databases: MySQL, Postgres, MongoDB, CassandraDB, Selinium
+**Databases**: MySQL, Postgres, MongoDB, CassandraDB, Selinium
 
-APIs: REST, GraphQL, Third-party integrations
+**APIs**: REST, GraphQL, Third-party integrations
 
-Testing and Automation Tools​​: Git, GitHub, Jenkins, Docker, Terraform, Apache Kafka, Maven, JIRA, Python Scripting, Shell ​​​​Scripting, Rasa, Redis
+**Testing and Automation Tools**​​: Git, GitHub, Jenkins, Docker, Terraform, Apache Kafka, Maven, JIRA, Python Scripting, Shell ​​​​Scripting, Rasa, Redis
 
-Cloud and DevOps Technologies​: AWS, Google Cloud Platform, Kubernetes, Grafana, Prometheus, ELK Stack
+**Cloud and DevOps Technologies**​: AWS, Google Cloud Platform, Kubernetes, Grafana, Prometheus, ELK Stack
 
-AI & ML: TensorFlow, PyTorch, Keras, LangChain, LangGraph, Scikit-learn, Pandas, NumPy, OpenCV, Natural Language Processing (NLP) Hugging Face Transformers, NLTK, SpaCy
+**AI & Ml**: TensorFlow, PyTorch, Keras, LangChain, LangGraph, Scikit-learn, Pandas, NumPy, OpenCV, Natural Language Processing (NLP) Hugging Face Transformers, NLTK, SpaCy
 
-Data Visualization: Matplotlib, Seaborn, Plotly
+**Data Visualization**: Matplotlib, Seaborn, Plotly
 
 
 🎓 Education

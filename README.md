@@ -1,16 +1,21 @@
-## Hi there 👋
+👋 Hi, I'm Koushik Kashetty!
 
-<!--
-**koushikkashetty/koushikkashetty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full-Stack Developer | API Expert
 
-Here are some ideas to get you started:
+I build AI-powered personal projects to simplify daily life and make technology intuitive.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Currently Working On
+
+AI personal projects for productivity & daily life hacks
+Full-stack applications with modern, responsive UIs
+🌱 Skills & Expertise
+
+Frontend: React, HTML, CSS, JavaScript, TypeScript
+Backend: Node.js, Python, Django, Flask, Express, Java, Spring Boot, TypeScript
+Databases: MySQL, Postgres, MongoDB, CassandraDB, Selinium
+APIs: REST, GraphQL, Third-party integrations
+AI & ML: TensorFlow, PyTorch, Keras, LangChain, LangGraph, Scikit-learn, Pandas, NumPy, OpenCV, Natural Language Processing (NLP) Hugging Face Transformers, NLTK, SpaCy
+Data Visualization: Matplotlib, Seaborn, Plotly
+🎓 Education
+
+University of Massachusetts Boston

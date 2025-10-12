@@ -13,7 +13,7 @@ Full-stack applications with modern, responsive UIs
 
 **Frontend**: React, HTML, CSS, JavaScript, TypeScript
 
-**Backend**: Node.js, Python, Django, Flask, Express, Java, Spring Boot, TypeScript
+**Backend**: Node.js, Python, Go, Django, Flask, Express, Java, Spring Boot, TypeScript
 
 **Databases**: MySQL, Postgres, MongoDB, CassandraDB, Selinium
 

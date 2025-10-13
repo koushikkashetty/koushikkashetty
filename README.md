@@ -1,13 +1,16 @@
 👋 Hi, I'm **Koushik Kashetty**!
 
+
 💻 **Full-Stack Developer** | **API's** | **DevOps** | **Cloud** | **Automation** 
 
 I build AI-powered personal projects to simplify daily life and make technology intuitive.
+
 
 🔭 Currently Working On
 
 AI personal projects for productivity & daily life hacks
 Full-stack applications with modern, responsive UIs
+
 
 🌱 Skills & Expertise
 
@@ -15,7 +18,7 @@ Full-stack applications with modern, responsive UIs
 
 **Backend**: Node.js, Python, Go, Django, Flask, Express, Java, Spring Boot, TypeScript
 
-**Databases**: MySQL, Postgres, MongoDB, CassandraDB, Selinium
+**Databases**: MySQL, Postgres, MongoDB, DynamoDB, CassandraDB, Selinium
 
 **APIs**: REST, GraphQL, Third-party integrations
 

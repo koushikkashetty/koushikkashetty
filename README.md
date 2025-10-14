@@ -22,7 +22,7 @@
 
 **Cloud and DevOps Technologies**​: AWS, Google Cloud Platform, Kubernetes, Grafana, Prometheus, ELK Stack
 
-**AI & Ml**: TensorFlow, PyTorch, Keras, LangChain, LangGraph, Scikit-learn, Pandas, NumPy, OpenCV, Natural Language Processing (NLP) Hugging Face Transformers, NLTK, SpaCy
+**AI & Ml**: TensorFlow, PyTorch, Keras, LangChain, LangGraph, CrewAI, LlamaIndex, Scikit-learn, Pandas, NumPy, OpenCV, Natural Language Processing (NLP) Hugging Face Transformers, NLTK, SpaCy
 
 **Data Visualization**: Matplotlib, Seaborn, Plotly
 

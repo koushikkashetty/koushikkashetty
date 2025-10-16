@@ -10,7 +10,7 @@
 
 🌱 Skills & Expertise
 
-**Frontend**: React, HTML, CSS, JavaScript, TypeScript, WebAssembly, D3.js, Redux, React Router, Axios, React Hooks, Lazy Loading, ES6+
+**Frontend**: React, HTML, CSS, JavaScript, TypeScript, WebAssembly,Angular, D3.js, Redux, React Router, Axios, React Hooks, Lazy Loading, ES6+
 
 
 **Backend**: Node.js, Python, Go, Django, Rust, Flask, Express, Java, Spring Boot, Microservices, OAuth 2.0, JWT, WebSockets, Django Channels, Circuit Breaker Patterns
